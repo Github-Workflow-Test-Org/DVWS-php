@@ -17,7 +17,7 @@ Sample entry for ```hosts``` file:
 192.168.100.199         dvws.local
 ```
 
-The application requires the following:
+The application requires the following:g
 
 Apache + PHP + MySQL
 
