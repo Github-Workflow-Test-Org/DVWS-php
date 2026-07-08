@@ -12,7 +12,7 @@ Windows: ```C:\windows\System32\drivers\etc\hosts```
 
 Linux: ```/etc/hosts```
 
-Sample entry for ```hosts``` file:
+Sample entry for ```hosts``` file:y
 ```
 192.168.100.199         dvws.local
 ```
